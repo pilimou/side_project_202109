@@ -1,0 +1,8 @@
+lineBot:
+  callBackReplyUrl: https://api.line.me/v2/bot/message/reply
+  broadcastUrl: https://api.line.me/v2/bot/message/broadcast
+  nike:
+    keyWord: [NS,機,售]
+    channelToken: 
+    channelSecret: 634ba854f7ea4c8d63fa3bd9048f200f
+    callBackEvent: NS
